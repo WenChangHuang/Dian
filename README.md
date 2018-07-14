@@ -8,7 +8,7 @@
  5. 最后将递归阶乘的结果输出    
 
  ## 运行结果
- ![结果1](/home/wenchang/gitkeep/picture/1.png)
+ ![结果1](./picture/1.png)
 
  # 2. 自动根据后缀名解压文件
  ## 解题思路
@@ -18,7 +18,7 @@
  3. 根据文件的后缀名,选择不同的解压命令对文件进行解压操作
 
  ## 运行结果
- ![结果2](/home/wenchang/gitkeep/picture/2.png)
+ ![结果2](./picture/2.png)
 
  # 3. 获取文件夹下最大的前n个文件
  ## 解题思路
@@ -30,4 +30,4 @@
  5. 删除临时文件temp.txt和temp1.txt
 
  ## 运行结果
- ![结果3](/home/wenchang/gitkeep/picture/1.png)
+ ![结果3](./picture/1.png)
